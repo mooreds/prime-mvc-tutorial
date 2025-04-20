@@ -1,13 +1,13 @@
 # Tutorial: prime mvc
 
-Original project: https://github.com/prime-framework/prime-mvc
+
 
 This project is a **web framework** (Prime MVC) that helps developers build applications following the *Model-View-Controller* pattern.
 It handles incoming web requests, routes them to the correct application logic (**Actions**), manages data (*Parameters*, *Scopes*), checks security, handles results (like showing a web page or returning data), and deals with errors and user messages.
 The core request processing happens through a customizable **Workflow** chain.
 
 
-**Source Repository:** [None](None)
+**Source Repository:** [https://github.com/prime-framework/prime-mvc](https://github.com/prime-framework/prime-mvc)
 
 ```mermaid
 flowchart TD
